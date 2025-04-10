@@ -8,7 +8,7 @@
   
 - 🌱 Cursando **Ciência da Computação (4/8)**
 
-- 👨‍💻 Consulte meu portfólio focado em Data Science em [https://sites.google.com/view/portflio-datascience/home](https://sites.google.com/view/portflio-datascience/home)
+
 
 - 📝 Escrevi alguns artigos relacionados à área de dados e regras de negócio em [https://medium.com/@larissarqos17](https://medium.com/@larissarqos17)
 
