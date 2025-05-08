@@ -1,16 +1,14 @@
-<h1 align="center">Olá 👋</h1>
+<h1 align="center"> Pensamento analítico, foco em resolver problemas </h1>
 
-<h3 align="center">Pensamento analítico, foco em resolver problemas</h3>
+<h3 align="center">Sobre mim</h3>
 
-- 🔭 Atualmente estou aprimorando minhas habilidades em **Data Science**
+- 🔭 Atualmente aprimorando minhas habilidades em **Data Science**
   
-- 💬 Resolvendo problemas através de **Excel, SQL, Power BI e Python**
+- 🛠 Resolvendo problemas através de **Excel, SQL, Power BI e Python**
   
-- 🌱 Cursando **Ciência da Computação (4/8)**
+- 💻 Cursando **Ciência da Computação (4/8)**
 
-
-
-- 📝 Escrevi alguns artigos relacionados à área de dados e regras de negócio em [https://medium.com/@larissarqos17](https://medium.com/@larissarqos17)
+- 📰 Escrevi alguns artigos relacionados à área de dados e regras de negócio em [https://medium.com/@larissarqos17](https://medium.com/@larissarqos17)
 
 - 📫 Me contate! **larissarqos17@gmail.com**
 
