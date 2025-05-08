@@ -1,4 +1,4 @@
-<h1 align="center"> Pensamento analítico, foco em resolver problemas </h1>
+<h2 align="center"> Pensamento analítico, foco em resolver problemas </h1>
 
 <h3 align="center">Sobre mim</h3>
 
