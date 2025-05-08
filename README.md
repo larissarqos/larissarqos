@@ -16,24 +16,11 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissarqos&layout=compact&langs_count=8&hide=shaderlab,c++,html&theme=dark)
-
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissarqos&layout=compact&langs_count=10&theme=dark)
 
-<br>
-
-![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissarqos&show_icons=true&theme=dark)
-
 
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/larissa-silva-b672ab24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="larissa-silva-b672ab24b" height="30" width="40" /></a>
-<a href="https://kaggle.com/birina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="birina" height="30" width="40" /></a>
-<a href="https://medium.com/@larissarqos17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@larissarqos17" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/larissa-silva-b672ab24b" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.kaggle.com/birina" target="_blank"> <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"> </a> <a href="https://medium.com/@larissarqos17" target="_blank"> <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"> </a> </p>
 
 <br>
 
