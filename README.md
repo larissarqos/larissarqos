@@ -1,6 +1,6 @@
-<h2 align="center"> 🧩 Pensamento analítico, foco em resolver problemas </h1>
-
 <br>
+
+<h2 align="center"> 🧩 Pensamento analítico, foco em resolver problemas </h1>
 
 <h3 align="">Opa, tudo bem?</h3>
 
