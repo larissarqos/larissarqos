@@ -21,12 +21,15 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissarqos&layout=compact&langs_count=10&theme=dark)
+<h3>Linguagens e Ferramentas</h3>
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.shields.io/badge/-SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"> </a> <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/-Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> </a> </p>
 
 <br>
 
-<h3>Linguagens e Ferramentas</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.shields.io/badge/-SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"> </a> <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/-Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> </a> </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissarqos&layout=compact&langs_count=10&theme=dark)
+
+
+
 <!---
 larissarqos/larissarqos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
