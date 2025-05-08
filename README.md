@@ -26,6 +26,15 @@
 
 <br>
 
+## 📂 Projetos em Destaque
+
+- 📈 [Análise de Assinaturas (Excel)](https://github.com/larissarqos/Projetos_Excel/tree/main/Analise_Assinaturas)  
+  Estudo do comportamento de clientes com foco em cancelamentos, adesões e métricas-chave de retenção.
+
+- 💎 [Análise RFV (Excel)](https://github.com/larissarqos/Projetos_Excel/tree/main/Analise_RFV)  
+  Segmentação de clientes com base em Recência, Frequência e Valor para ações estratégicas personalizadas.
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissarqos&layout=compact&langs_count=10&theme=dark)
 
 
