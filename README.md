@@ -4,7 +4,7 @@
 
 <h3 align="">Opa, tudo bem?</h3>
 
-- 🔭 Atualmente aprimorando minhas habilidades em **Data Science**
+- 🔭 Aprimorando minhas habilidades em **Data Science**
   
 - 🛠 Resolvendo problemas através de **Excel, SQL, Power BI e Python**
   
