@@ -1,5 +1,7 @@
 <h2 align="center"> 🧩 Pensamento analítico, foco em resolver problemas </h1>
 
+<br>
+
 <h3 align="">Opa, tudo bem?</h3>
 
 - 🔭 Aprimorando minhas habilidades em **Data Science**
