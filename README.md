@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="">Olá, tudo bem?</h3>
+<h3 align="">Opa, tudo bem?</h3>
 
 - 🔭 Atualmente aprimorando minhas habilidades em **Data Science**
   
