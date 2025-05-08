@@ -18,8 +18,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissarqos&layout=compact&langs_count=10&theme=dark)
 
-
 <br>
+
+<h4>Conecte-se comigo!</h4>
 <p align="left"> <a href="https://www.linkedin.com/in/larissa-silva-b672ab24b" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.kaggle.com/birina" target="_blank"> <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"> </a> <a href="https://medium.com/@larissarqos17" target="_blank"> <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"> </a> </p>
 
 <br>
