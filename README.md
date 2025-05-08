@@ -14,6 +14,9 @@
 
 - 📫 Me contate! **larissarqos17@gmail.com**
 
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissarqos&layout=compact&langs_count=8&hide=shaderlab,c++,html&theme=dark)
 
 <br>
 
