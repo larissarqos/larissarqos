@@ -30,19 +30,6 @@
 
 <br>
 
-<h2>🚀 Projetos em Destaque</h2>
-
-<p align="left">
-  <a href="https://github.com/larissarqos/Projetos_Excel/tree/main/Analise_Assinaturas">
-    <img src="https://img.shields.io/badge/-Análise%20de%20Assinaturas-007ACC?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Análise de Assinaturas" />
-  </a>
-
-  <a href="https://github.com/larissarqos/Projetos_Excel/tree/main/Analise_RFV">
-    <img src="https://img.shields.io/badge/-Análise%20RFV-FFB900?style=for-the-badge&logo=powerbi&logoColor=black" alt="Análise RFV" />
-  </a>
-</p>
-
-
 <!---
 larissarqos/larissarqos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
