@@ -1,6 +1,6 @@
 <br>
 
-<h2 align="center"> Opa, tudo bem? </h1>
+## Opa, tudo bem?
 
 - 🧩 Pensamento analítico, foco em resolver problemas
 
