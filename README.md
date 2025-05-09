@@ -1,8 +1,8 @@
 <br>
 
-<h2 align="center"> 🧩 Pensamento analítico, foco em resolver problemas </h1>
+<h2 align="center"> Opa, tudo bem? </h1>
 
-<h3 align="">Opa, tudo bem?</h3>
+- 🧩 Pensamento analítico, foco em resolver problemas
 
 - 🔭 Aprimorando minhas habilidades em **Data Science**
   
