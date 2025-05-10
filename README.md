@@ -8,7 +8,7 @@
   
 - 🛠 Resolvendo problemas através de **Excel, SQL, Power BI e Python**
   
-- 💻 Cursando **Ciência da Computação (4/8)**
+- 💻 Cursando **Ciência da Computação**
 
 - 📰 Escrevi alguns artigos relacionados à área de dados e regras de negócio em [https://medium.com/@larissarqos17](https://medium.com/@larissarqos17)
 
