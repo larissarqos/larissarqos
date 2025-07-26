@@ -1,18 +1,14 @@
 <br>
 
-## Opa, tudo bem?
-
-- 🧩 Pensamento analítico, foco em resolver problemas
+## Saudações
 
 - 🔭 Aprimorando minhas habilidades em **Data Science**
-  
-- 🛠 Resolvendo problemas através de **Excel, SQL, Power BI e Python**
-  
+    
 - 💻 Cursando **Ciência da Computação**
 
 - 📰 Escrevi alguns artigos relacionados à área de dados e regras de negócio em [https://medium.com/@larissarqos17](https://medium.com/@larissarqos17)
 
-- 📫 Me contate! **larissarqos17@gmail.com**
+- 🧭 Constantemente buscando utilidade, sentido e beleza em meio a cabos, códigos e brilho irritante de tela
 
 <br>
 
