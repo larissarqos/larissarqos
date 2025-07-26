@@ -2,13 +2,13 @@
 
 ## Saudações
 
-- 🔭 Aprimorando minhas habilidades em **Data Science**
+- 📊 Aprimorando minhas habilidades em **Data Science**
     
 - 💻 Cursando **Ciência da Computação**
 
 - 📰 Escrevi alguns artigos relacionados à área de dados e regras de negócio em [https://medium.com/@larissarqos17](https://medium.com/@larissarqos17)
 
-- 🧭 Constantemente buscando utilidade, sentido e beleza em meio a cabos, códigos e brilho irritante de tela
+- 🔭 Constantemente buscando utilidade, sentido e beleza em meio a cabos, códigos e brilho irritante de tela
 
 <br>
 
